@@ -4,5 +4,5 @@
 <h3>프로젝트 기간</h3>
 <p>2024.08.19~2024.08.25</p>
 <h4>Table 작성</h4>
-<img src="https://github.com/dusdn3391/BS/assets/141704712/1080d449-2966-4b57-a648-d3296ecee40f" alt="ERD">
+<img src="https://github.com/dusdn3391/BS/assets/141704712/d76bef01-f708-44c5-b8f3-3844f2f9c67b" alt="ERD">
 <img src="https://github.com/dusdn3391/BS/issues/2#issue-2267620906" alt="logical">
