@@ -5,4 +5,4 @@
 <p>2024.08.19~2024.08.25</p>
 <h4>Table 작성</h4>
 <img src="" alt="ERD">
-<img src="" alt="logical">
+<img src="https://github.com/dusdn3391/BS/issues/2#issue-2267620906" alt="logical">
