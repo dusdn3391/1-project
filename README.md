@@ -3,6 +3,9 @@
 <p>빵지순례를 하는 유저들에게 루트 소개와 다른 지역의 빵을 드시고 싶은 분들이 그 빵집을 가면서 지나가는 루트가 되면 게시판에 픽업장소와 어떠한 빵을 구매하는지 댓글로 달고 교환하기 위해 코멘트를 다는 특징</p>
 <h3>프로젝트 기간</h3>
 <p>2024.08.19~2024.08.25</p>
+<h3>사용 툴</h3>
+ <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql"  height="40"/></a>
 <h4>Table 작성</h4>
 <img src="https://github.com/dusdn3391/BS/assets/141704712/d76bef01-f708-44c5-b8f3-3844f2f9c67b" alt="ERD">
 <img src="https://github.com/dusdn3391/BS/assets/141704712/78cd77b7-7878-45d9-b339-7d63f8787ac7" alt="logical">
